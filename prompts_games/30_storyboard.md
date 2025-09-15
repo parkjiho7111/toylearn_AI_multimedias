@@ -201,4 +201,5 @@ Shot 13 (31-35초)
 
 ```
 ## speech wav
-[감정 대사](https://github.dev/parkjiho7111/toylearn_AI_multimedias/blob/main/prompts_games/30_speech.wav) :감정(사전 기호) 포함
+[감정 대사](https://github.com/parkjiho7111/toylearn_AI_multimedias/blob/main/prompts_games/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.wav) :감정(사전 기호) 포함
+```
