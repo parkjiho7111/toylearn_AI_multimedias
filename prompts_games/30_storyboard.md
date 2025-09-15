@@ -200,3 +200,5 @@ Shot 13 (31-35초)
 이 세 가지 원칙만 지키면, 헬스는 안전하고 효과적으로 시작할 수 있다.
 
 ```
+## speech wav
+[감정 대사](https://github.dev/parkjiho7111/toylearn_AI_multimedias/blob/main/prompts_games/30_speech.wav) :감정(사전 기호) 포함
