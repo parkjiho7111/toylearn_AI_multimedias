@@ -12,3 +12,6 @@
 2d 애니스타일이다.
 ```
 
+## prompt images
+- [ whisk](https://labs.google/fx/tools/whisk/share/2c0elqocb0000)
+
