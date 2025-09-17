@@ -39,4 +39,6 @@
 [whisk](https://labs.google/fx/ko/tools/whisk/share/5bihk5a2l0000)
 
 ## 근거자료
-[]
+(https://github.com/parkjiho7111/toylearn_AI_multimedias/blob/main/quests/collision.png)
+(https://github.com/parkjiho7111/toylearn_AI_multimedias/blob/main/quests/k-pg.png)
+
