@@ -22,4 +22,5 @@
 실제 사진.
 
 ```
-
+## 프롬프트 사진
+[whisk](https://labs.google/fx/tools/whisk/share/46jlen8hr0000)
